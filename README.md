@@ -2,7 +2,7 @@
 fasttext amharic bin loaded to word and vector dicts 
 Using the Bert Language Model to put together these vectors means they can be paired with English word vectors in an article from the paire-dnews-corpus, and a language model for Amharic, from those two, can soon have some of the same capabilities as English, despite using tools not at at made for them
 
-Which leads me to a point on the number of words in this list of word vectors; and I'lll just quote Michael Gasser's paper on HornMorpho here. " ..for Semitic languages such as Amharic and Tigri-
+Which leads me to a point on the number of words in this list of word vectors(ther aren't very many, when you think about the number of words here relative to other languages as widely spoken). I'lll just quote Michael Gasser's paper on HornMorpho here. " ..for Semitic languages such as Amharic and Tigri-
 nya, morphological analysis can make explicit some of the phonological features of the languages 
 that are not reflected in the orthography; these features may be important for text-to-speech applica-
 tions. For example, the Tigrinya word ዚፍለጥ ‘which (it) is known’ is correctly pronounced with 
