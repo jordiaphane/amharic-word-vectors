@@ -1210,7 +1210,7 @@
  'ከተረፈ': <map object at 0x000001D76BE11A58>
  'በረከትዎ': <map object at 0x000001D76BE15DA0>
  'በመፈለጊያ': <map object at 0x000001D76BE1A128>
- 'ይመልሳችሁ':					
+ 'ይመልሳችሁ': <map object at 0x000001D76BDFC9B9>
  'ማስታዎቂያ': <map object at 0x000001D76BE4C908>
  'በሻዕብያ': <map object at 0x000001D76BE50C50>
  'ዘየሕጉስ': <map object at 0x000001D76BE54F98>
@@ -1309,11 +1309,11 @@
  'መረረት': <map object at 0x000001D76BFF56A0>
  'በመከበብ': <map object at 0x000001D76BFF99E8>
  'እንድትገላገል': <map object at 0x000001D76BFFDD30>
- 'ርዕዮተዓለም': <map object at					
+ 'ርዕዮተዓለም': <map object at 0x000001D76BDFC9T6>
  'ብትሄድም': <map object at 0x000001D76C01F7F0>
  'ዝምልሱ': <map object at 0x000001D76C023B38>
  'ይገዘር': <map object at 0x000001D76C027E80>
- 'ተረከበዉ': <map object at
+ 'ተረከበዉ': <map object at <0x000001D86BDFC9B0>
  'ንሕብረት': <map object at 0x000001D76C0412B0>
  'ወረቦች': <map object at 0x000001D76C0455F8>
  'ሲያድን': <map object at 0x000001D76C049940>
@@ -1944,12 +1944,14 @@
  'ሲጎረጉሩ': <map object at 0x000001D76DD5E828>
  'እየጮኸች': <map object at 0x000001D76DD62B70>
  'ነዳድን': <map object at 0x000001D76DD66EB8>
- 'ባልሞት': <map object at  0x000001D76DD70588>							'repaintsያላቸውን': <map object at 0x000001D76DD85630>
+ 'ባልሞት': <map object at  0x000001D76DD70588>	
+ 'ያላቸውን': <map object at 0x000001D76DD85630>
  'ብሪጋዴር': <map object at 0x000001D76DD89978>
  'ሙዚቃውም': <map object at 0x000001D76DD8DCC0>
  'በፃነት': <map object at 0x000001D76DD92048>
  'ፈጥረህ': <map object at 0x000001D76DD96390>
- 'የትስስሩ': <map object at 0x000001D76DD9A6D8>							'ሳኒያ': <map object at 0x000001D76DDAF780>
+ 'የትስስሩ': <map object at 0x000001D76DD9A6D8>							
+ 'ሳኒያ': <map object at 0x000001D76DDAF780>
  'ለሕፃናትና': <map object at 0x000001D76DDB3AC8>
  'ተጠንቀቂ': <map object at 0x000001D76DDB7E10>
  'የገባቸዉ': <map object at 0x000001D76DDBC198>
@@ -2055,5 +2057,4 @@
  'ኣይንፋለጥን': <map object at 0x000001D76DFC9F98>
  'ሓብር': <map object at 0x000001D76DFCE320>
  'ዓይነቱና': <map object at 0x000001D76DFD2668>
- 'temptation': <map object at 0x000001D76DFD69B0>
  'የምትፈልጋቸው': <map object at 0x000001D76DFDACF8>}						
